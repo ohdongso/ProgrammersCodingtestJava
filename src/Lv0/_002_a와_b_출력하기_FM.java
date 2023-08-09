@@ -8,7 +8,7 @@ public class _002_a와_b_출력하기_FM {
 		Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-
+        
         System.out.println("a = "+a +"\n" +"b = "+b);
 	}
 }
